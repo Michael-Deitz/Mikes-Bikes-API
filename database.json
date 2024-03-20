@@ -1,0 +1,217 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Michael",
+      "email": "mdeitz@gmail.com",
+      "isStaff": true
+    },
+    {
+      "id": 2,
+      "fullName": "Sara",
+      "email": "smunoz@gmail.com",
+      "isStaff": false
+    },
+    {
+      "id": 3,
+      "fullName": "Tucker",
+      "email": "thurd@gmail.com",
+      "isStaff": false
+    },
+    {
+      "id": 4,
+      "fullName": "Jackson",
+      "email": "jbeaird@gmail.com",
+      "isStaff": false
+    },
+    {
+      "email": "cohde@gmail.com",
+      "fullName": "Colt",
+      "isStaff": false,
+      "id": 5
+    },
+    {
+      "email": "gmam@gmail.com",
+      "fullName": "Granny",
+      "isStaff": false,
+      "id": 6
+    }
+  ],
+  "bikes": [
+    {
+      "id": 1,
+      "img": "https://www.1000rr.net/attachments/p5268238-jpg.213466/",
+      "make": "Honda",
+      "model": "CBR 1000rr ",
+      "mods": "The mods I have done are and exhaust which is the Bodis GPX2,And I have poweder coated the rims",
+      "info": "I have a fireBlade Tricolor cbr i have loved this bike since i got it in 2008 and since then i have added an exhuast had the rims painted and add led light to the bike",
+      "sizeId": 3,
+      "typeId": 1,
+      "userId": 4
+    },
+    {
+      "id": 2,
+      "img": "https://i.pinimg.com/736x/8d/f4/4f/8df44f0c6599c805b35c3a14ce481e39.jpg",
+      "make": "Kawasaki ",
+      "model": "H2 Carbon SuperCharged ",
+      "mods": "The mods i have done to this bike are a tune to the ecu, and exhaust which is a full system Akrapovic Evolution",
+      "info": "This is my 2023 Kawasaki H2 SuperCharged bike for the style of riding i like to do i have put an exhuast and tune on this bike only",
+      "sizeId": 3,
+      "typeId": 1,
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "img": "https://damon.com/blog/wp-content/uploads/2022/09/Damon-Hypersport-HS-Damon-Gold.jpg",
+      "make": "Damon Hypersport",
+      "model": "Electric sport bike",
+      "mods": "No mods done yet",
+      "info": "I have a 2024 Fully Electric bike i love the instant torque the bike has i have yet to do any mods to this bike",
+      "sizeId": 9,
+      "typeId": 3,
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "img": "https://images.squarespace-cdn.com/content/v1/516f3efce4b0f564b2aca913/1409215157273-Z4H1LCO7LZBBVA5GQFI6/1199sl-5.jpg",
+      "make": "Ducati",
+      "model": "1199 Superleggera",
+      "mods": "I only have an exhaust done to my bike and it is an Akrapovic Evolution",
+      "info": "this is my 2012 superleggers i have set this bike up to primarly be a full track bike",
+      "sizeId": 2,
+      "typeId": 1,
+      "userId": 2
+    },
+    {
+      "id": 5,
+      "img": "https://i.ytimg.com/vi/LfxiiF_d8JI/maxresdefault.jpg",
+      "make": "Honda",
+      "model": "CRF450R Works",
+      "mods": "The mods done to this bike are D.I.D. rims and a full yoshimira exhaust system",
+      "info": "This is my 2024 CRF 450R Works edition i bought this dirt bike to use on a mx track",
+      "sizeId": "10",
+      "typeId": 2,
+      "userId": 1
+    },
+    {
+      "id": 7,
+      "img": "https://www.motorcycledaily.com/wp-content/uploads/2023/08/082323Topi.jpg",
+      "make": "KTM",
+      "model": "Duke",
+      "mods": "mods done to my bike",
+      "info": "i bought this bike to use for",
+      "sizeId": "11",
+      "typeId": "1",
+      "userId": 5
+    },
+    {
+      "id": 8,
+      "img": "https://media.triumphmotorcycles.co.uk/image/upload/f_auto/q_auto/sitecoremedialibrary/media-library/images/central%20marketing%20team/te1%20-%20phase%202/phase%204%20results/te1-phase4-hero-1920x1080.jpg",
+      "make": "Triumph",
+      "model": "TE-1",
+      "mods": "no mods done",
+      "info": "i bought this bike to see what an electric bike could do",
+      "sizeId": "14",
+      "typeId": "3",
+      "userId": 5
+    },
+    {
+      "id": 9,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToLDxCHC3_95xaTs2KX9ZbcoPq2F4fIGg3Sx0W1LcM-HYdioNjfGL5BCh7e_f5gsmABWo&usqp=CAU",
+      "make": "Yamaha",
+      "model": "YZ125",
+      "mods": "the mods are a FMF pipe/silencer, Boyesen clutch",
+      "info": "i got this bike to ride it into the woods ",
+      "sizeId": "13",
+      "typeId": 2,
+      "userId": 5
+    },
+    {
+      "img": "https://i.ytimg.com/vi/Pg3z33j4K5Q/maxresdefault.jpg",
+      "make": "Harley Davidson",
+      "model": "Sportster",
+      "mods": "none done yet",
+      "info": "i bought this bike to cruise around the back roads",
+      "sizeId": "4",
+      "typeId": "4",
+      "userId": 6,
+      "id": 10
+    }
+  ],
+  "sizes": [
+    {
+      "id": 1,
+      "size": "1400cc"
+    },
+    {
+      "id": 2,
+      "size": "1200cc"
+    },
+    {
+      "id": 3,
+      "size": "1000cc"
+    },
+    {
+      "id": 4,
+      "size": "900cc"
+    },
+    {
+      "id": 5,
+      "size": "800cc"
+    },
+    {
+      "id": 6,
+      "size": "700cc"
+    },
+    {
+      "id": 7,
+      "size": "650cc"
+    },
+    {
+      "id": 8,
+      "size": "600cc"
+    },
+    {
+      "id": 9,
+      "size": "500cc"
+    },
+    {
+      "id": 10,
+      "size": "450cc"
+    },
+    {
+      "id": 11,
+      "size": "400cc"
+    },
+    {
+      "id": 12,
+      "size": "250cc"
+    },
+    {
+      "id": 13,
+      "size": "125cc"
+    },
+    {
+      "id": 14,
+      "size": "Electric"
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "type": "Street Bike"
+    },
+    {
+      "id": 2,
+      "type": "Dirt Bike"
+    },
+    {
+      "id": 3,
+      "type": "Electric Bike"
+    },
+    {
+      "id": 4,
+      "type": "Cruiser Bike"
+    }
+  ]
+}
